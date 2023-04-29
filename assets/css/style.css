@@ -1201,8 +1201,14 @@ section {
 
 #footer .copyright {
   margin: 0 0 5px 0;
+  color: #f7f8f9;
 }
 
 #footer .credits {
   font-size: 13px;
+  color: #f7f8f9;
+}
+
+#footer a {
+  color: #f7f8f9;
 }
